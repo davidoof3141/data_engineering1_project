@@ -55,6 +55,12 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
+<<<<<<< HEAD
+      "Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties\n",
+      "Setting default log level to \"WARN\".\n",
+      "To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).\n",
+      "22/03/18 10:16:28 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n"
+=======
       "22/03/18 12:43:39 WARN Utils: Your hostname, nanook resolves to a loopback address: 127.0.1.1; using 192.168.0.197 instead (on interface wlp9s0)\n",
       "22/03/18 12:43:39 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address\n",
       "WARNING: An illegal reflective access operation has occurred\n",
@@ -68,6 +74,7 @@
       "22/03/18 12:43:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n",
       "22/03/18 12:43:41 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.\n",
       "22/03/18 12:43:41 WARN Utils: Service 'SparkUI' could not bind on port 4041. Attempting port 4042.\n"
+>>>>>>> 621440c2335a3e9143b34d7d1a144f86c5e84162
      ]
     }
    ],
@@ -152,7 +159,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 4,
    "id": "563f4dec",
    "metadata": {
     "scrolled": true
