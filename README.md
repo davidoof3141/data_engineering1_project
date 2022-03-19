@@ -14,9 +14,9 @@ https://github.com/fivethirtyeight/uber-tlc-foil-response
 4. Find share of each company in each area, show the result on a map (Work with Folium) [David].
 5. Work with file uber-raw-data-janjune-15.csv.zip to summerize all uber pickups (based on their Lat & Lon) in corresponding Borough (Visualize with Folium or bar chart) [David]
 ##### Tasks with For-Hire Vehicle (FHV) companies (10 files of raw data on pickups from 10 FHV companies. The trip information varies by company, but can include day of trip, time of trip, pickup location, driver's for-hire license number, and vehicle's for-hire license number.)
-6. Find the most frequent address names from adress column for each company (word count in strings) [Axel]
+6. Find the most frequent address names from adress column for all companies (word count in strings) [Axel]
 7. Find frequent times like the one in Uber section [Axel]
-8. Compare most active drvier and car for companies if possible, some files does not have these data (work with driver's license number, and vehicle's license number) [Naeim]
+8. Find the most customer intensive neighborhoods for each company [Naeim]
 9. Scalability tasks! [Naeim]
 ----- 
 ##### The approach you plan to takeproach
